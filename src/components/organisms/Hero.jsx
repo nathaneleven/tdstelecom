@@ -12,7 +12,7 @@ const Hero = () => {
         {/*a width vai ser a responsável pelo alinamento da div de texto*/}
         <Box p={["4","5","6","7","8"]}  w={["100%","100%","100%","100%","75%"]} m="auto">
             <Heading color="#19388A" as="h1" mb="24px">
-            Mediacom Internet, TV & Phone Services 
+            TDS: your choice for high-speed Internet, TV and Home Phone services
             </Heading>
             <List color="#000000"spacing={2}>
                 <ListItem>
