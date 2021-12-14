@@ -6,7 +6,7 @@ const LogoHeader = () => {
   return (
     <>
     <Box>
-      <Link href="/"><Image src="/logo-xtream-mediacom.svg"/></Link>
+      <Link href="/"><Image h="34.79px" src="/tds-telecom-logo.svg"/></Link>
     </Box>
     </>
   )

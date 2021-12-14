@@ -4,9 +4,9 @@ import Hero from '../src/components/organisms/Hero'
 import Cta from '../src/components/organisms/Cta'
 import Plans from '../src/components/organisms/Plans'
 import About from '../src/components/organisms/About'
-import Advantages from '../src/components/organisms/Advantages'
-import Xtream from '../src/components/organisms/Xtream'
-import Support from '../src/components/organisms/Support'
+import TdsTv from '../src/components/organisms/TdsTv'
+import TdsPhone from '../src/components/organisms/TdsPhone'
+import TdsInternet from '../src/components/organisms/TdsInternet'
 
 
 export default function Home() {
@@ -16,10 +16,10 @@ export default function Home() {
       <Hero />
       <Cta />
       <Plans/>
+      <TdsInternet/>
+      <TdsTv/>
+      <TdsPhone/>
       <About/>
-      <Advantages/>
-      <Xtream/>
-      <Support/>
       <Footer/>
     </div>
   )
